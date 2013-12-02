@@ -32,7 +32,7 @@ var patch_url_with_bitrate_piece = function(url){
 };
 
 var clean_filename = function(raw_filename){
-	return raw_filename.replace(/[^\w\s\-öäå]/gi, '_');
+	return raw_filename.replace(/[^\w\-öäå]/gi, '_');
 };
 
 var get_detils_from_json_reply = function(response){
