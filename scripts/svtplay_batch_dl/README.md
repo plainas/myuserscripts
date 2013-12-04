@@ -9,11 +9,11 @@ Installation
 This is a simple userscript, AKA Greasemonekey script. Install a userscript plugin in your browser and add this script.
 There are several options
 
-[Tampermonkey for chrome]()
-[Greasemonkey for firefox]()
-[Scriptish for firefox]()
+* [Tampermonkey for chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+* [Greasemonkey for firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+* [Scriptish for firefox](https://addons.mozilla.org/en-US/firefox/addon/scriptish/)
 
-Add this script. You can do this simply by clicking [it's url]()
+Add this script. You can do this simply by clicking [it's url](https://github.com/plainas/myuserscripts/raw/master/scripts/svtplay_batch_dl/svtplay_batch_dl.user.js)
 
 Usage
 -----
